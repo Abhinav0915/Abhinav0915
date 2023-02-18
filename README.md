@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **If I am not responding to You it's probably because I am free!!**
 
-![Snake animation](https://github.com/abhinav0915/abhinav0915/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,3 +43,5 @@
 
 ![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@3445851e-b108-4f02-b8aa-436986acf825&theme=radical
 )
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
