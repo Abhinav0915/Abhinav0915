@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **If I am not responding to You it's probably because I am free!!**
 
+![Snake animation](https://github.com/abhinav0915/abhinav0915/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinav_150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav_150" height="30" width="40" /></a>
