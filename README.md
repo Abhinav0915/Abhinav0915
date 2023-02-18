@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
 <h3 align="center">Motivated, teamwork-oriented, and responsible enthusiast. Highly educated, pursuing Computer Science Engineer, and interested in Android Development</h3>
-
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav0915)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav0915&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav0915" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav0915" alt="abhinav0915" /></a> </p>
