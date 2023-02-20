@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [PayBae](https://github.com/PayBaes/PayBae)
 
-- 🌱 I’m currently learning **Flutter, Dart, JavaScript, React,**
+- 🌱 I’m currently learning **Flutter, Dart, JavaScript,**
 
 - 💬 Ask me about **Flutter, Dart, C++, Python, Android Development**
 
