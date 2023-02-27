@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinav_150" target="blank"><img src="https://img.shields.io/twitter/follow/abhinav_150?logo=twitter&style=for-the-badge" alt="abhinav_150" /></a> </p>
 
-- 🔭 I’m currently working on [PayBae](https://github.com/PayBaes/PayBae)
+<!-- - 🔭 I’m currently working on [PayBae](https://github.com/PayBaes/PayBae) -->
 
 - 🌱 I’m currently learning **Flutter, Dart, JavaScript,**
 
