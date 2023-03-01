@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhinav150601@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YI5a1MSQyeG2Hzaiva4R9SiVvh-RXwWV/view?usp=share_link](https://drive.google.com/file/d/1YI5a1MSQyeG2Hzaiva4R9SiVvh-RXwWV/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YI5a1MSQyeG2Hzaiva4R9SiVvh-RXwWV/view?usp=share_link)
 
 - ⚡ Fun fact **If I am not responding to You it's probably because I am free!!**
 
