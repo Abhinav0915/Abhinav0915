@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently learning  Flutter, Dart and JavaScript.<br>👯 I’m looking to collaborate on Flutter Projects.<br>🤝 I’m looking for help with Web Development.<br>💬 Ask me about Flutter, Dart, C++, Python, Android Development<br>⚡ Fun fact: If I am not responding to You it's probably because I am free!!
 
+---
+[![](https://visitcount.itsvg.in/api?id=Abhinav0915&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhinav.saxena.33886305) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_being.abhinav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-saxena-13bba71b8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhinav15) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhinav150601) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Abhinav-Saxena-380) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abhinav_150) 
