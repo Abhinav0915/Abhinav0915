@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinav0915&theme=onedark-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)<P>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav0915&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
-
+![](https://github-readme-stats.vercel.app/api?username=Abhinav0915&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhinav0915&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
