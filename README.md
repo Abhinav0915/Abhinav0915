@@ -16,8 +16,8 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinav0915&theme=onedark-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats) <P>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav0915&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&theme=onedark-duo&card_width=500)  <P>
-![](https://github-readme-stats.vercel.app/api?username=Abhinav0915&theme=dark&hide_border=true&include_all_commits=false&count_private=false&theme=onedark-duo&card_width=500) <P>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav0915&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=onedark-duo&theme=dark&card_width=500)  <br>
+![](https://github-readme-stats.vercel.app/api?username=Abhinav0915&theme=dark&hide_border=true&include_all_commits=false&count_private=false&theme=onedark-duo&card_width=500&theme=dark)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
