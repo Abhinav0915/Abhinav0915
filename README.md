@@ -100,7 +100,7 @@
 
   <P></P>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav0915&bg_color=000000&color=529e4c&line=00ff88&point=ffffff&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav0915&bg_color=000000&color=529e4c&line=00ff88&point=ffffff&area=true&hide_border=true)
 </div>
 
 ## ✍️ Random Dev Quote
