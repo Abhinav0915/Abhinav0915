@@ -88,26 +88,25 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav0915&theme=onedark-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
 <p></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav0915&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav0915&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav0915&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- 
+
+  <P></P>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav0915&bg_color=000000&color=529e4c&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- ### 🔝 Top Contributed Repo
+ ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhinav0915&limit=5&theme=dark&combine_all_yearly_contributions=true)
- -->
-<!-- ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
- -->
+ 
