@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 <img align="right" height="150" src="https://media.giphy.com/media/Y2iqFF4t0Qdzi/giphy.gif"  />
-
-🔭 I’m currently learning MERN Stack.<br>👯 I am looking to collaborate on Flutter Projects and Web Deelopment.<br>🤝 I’m looking for help with Web Development.<br>💬 Ask me about Flutter, C++, Python, Android Development<br>⚡ Fun fact: If I am not responding to You it's probably because I am free!<br><br>
+<BR>
+🔭 I’m currently learning MERN Stack.<br>👯 I am looking to collaborate on Flutter Projects and Web Deelopment.<br>🤝 I’m looking for help with Web Development.<br>💬 Ask me about Flutter, C++, Python, Android Development<br>⚡ Fun fact: If I am not responding to You it's probably because I am free!<br>
 
 
 ---
