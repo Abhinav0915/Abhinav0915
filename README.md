@@ -106,6 +106,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhinav0915&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhinav0915&limit=5&theme=dark&combine_all_yearly_contributions=true) -- >
  
