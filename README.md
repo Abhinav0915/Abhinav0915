@@ -9,6 +9,7 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Abhinav0915&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/3445851e-b108-4f02-b8aa-436986acf825.svg)](https://wakatime.com/@3445851e-b108-4f02-b8aa-436986acf825)
 
 ## 🌐 Socials:
 <div align="left">
