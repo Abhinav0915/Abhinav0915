@@ -1,10 +1,7 @@
-# 💫 About Me:
 
-<img align="right" height="150" src="https://media.giphy.com/media/Y2iqFF4t0Qdzi/giphy.gif"  />
-<BR>
-🔭 I’m currently learning MERN Stack.<br>👯 I am looking to collaborate on Flutter Projects and Web Deelopment.<br>🤝 I’m looking for help with Web Development.<br>💬 Ask me about Flutter, C++, Python, Android Development<br>⚡ Fun fact: If I am not responding to You it's probably because I am free!<br>
+<h1 align="center">Hi 👋, I'm Abhinav Saxena</h1>
+<h3 align="center">Software Developer</h3>
 
-<BR>
 
 ---
 
@@ -94,14 +91,19 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav0915&theme=onedark-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
+<div align="center">
+<a href="https://github.com/Abhinav0915">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinav0915&theme=2077" height="180em" />
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav0915&theme=2077" height="180em" />
+</div>
 <p></p>
 
-  
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav0915&custom_title=Activity%20Graph&hide_border=true&&theme=react-dark&line=FFFFFF&bg_color=black)](https://github.com/Abhinav0915/github-readme-activity-graph)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav0915&theme=react-dark"/>
 
-## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhinav0915&limit=5&theme=dark&combine_all_yearly_contributions=true) -- >
