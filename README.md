@@ -91,12 +91,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinav0915&theme=onedark-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
-<div align="center">
-<a href="https://github.com/Abhinav0915">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinav0915&theme=2077" height="180em" />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav0915&theme=2077" height="180em" />
-</div>
 <p></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
