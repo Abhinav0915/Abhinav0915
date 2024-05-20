@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=Abhinav0915&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/3445851e-b108-4f02-b8aa-436986acf825.svg)](https://wakatime.com/@3445851e-b108-4f02-b8aa-436986acf825)
 
-## 🌐 Socials:
+## 🌐 Social:
 <div align="left">
 <!-- <a href="tel:7565893606 target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
