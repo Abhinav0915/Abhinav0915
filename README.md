@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-I'm Abhinav Saxena 😉, a full time Software Developer 👨🏻‍💻. I'm a full stack developer and mostly use React and Django/Java.
+I'm Abhinav Saxena, a full time Software Developer 👨🏻‍💻. I'm a full stack developer and mostly use React and Django/Java.
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=250&lines=Software+Developer;UI-UX+Developer;Web+Developer;Java+Developer;React+Developer%2C+Cutting-Edge+Solutions" height="40"/>
 
