@@ -145,6 +145,10 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
 ---
 
 ## 💡 My Engineering Philosophy
