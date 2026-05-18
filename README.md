@@ -145,10 +145,11 @@
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
+<!-- Generated daily by .github/workflows/city-3d.yml -->
+<!-- profile-3d-city.svg is committed to repo root by the workflow -->
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="3D Contribution City" width="100%" />
 </div>
-
 ---
 
 ## 💡 My Engineering Philosophy
