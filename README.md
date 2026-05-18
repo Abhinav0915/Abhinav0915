@@ -147,9 +147,9 @@
 
 <!-- Generated daily by .github/workflows/city-3d.yml -->
 <!-- profile-3d-city.svg is committed to repo root by the workflow -->
-<div align="center">
+<!-- <div align="center">
   <img src="profile-3d-city.svg" alt="3D Contribution City" width="100%" />
-</div>
+</div> -->
 ---
 
 ## 💡 My Engineering Philosophy
